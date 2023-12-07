@@ -27,6 +27,8 @@ Topic Title: Sari-Sari Saya: Transforming and Exploring the Assitance of Public 
     GUALBERTO, Steavencarl        (22-03674@g.batstate-u.edu.ph)
     NUAS, Angelika Ynez A.        (22-05651@g.batstate-u.edu.ph)
     OTARES, Francheska Anneth O.  (22-06386@g.batstate-u.edu.ph)
+
+    
 ![screenshot_1](https://github.com/Angelikanuas22/Sari-Sari-Saya_System/blob/main/OOP_SARISARISAYA_codes/screenshots/1.png)
 ![screenshot_2](https://github.com/Angelikanuas22/Sari-Sari-Saya_System/blob/main/OOP_SARISARISAYA_codes/screenshots/2.png)
 ![screenshot_3](https://github.com/Angelikanuas22/Sari-Sari-Saya_System/blob/main/OOP_SARISARISAYA_codes/screenshots/3.png)
@@ -39,4 +41,4 @@ Topic Title: Sari-Sari Saya: Transforming and Exploring the Assitance of Public 
 ![screenshot_10](https://github.com/Angelikanuas22/Sari-Sari-Saya_System/blob/main/OOP_SARISARISAYA_codes/screenshots/10.png)
 ![screenshot_11](https://github.com/Angelikanuas22/Sari-Sari-Saya_System/blob/main/OOP_SARISARISAYA_codes/screenshots/11.png)
 ![screenshot_12](https://github.com/Angelikanuas22/Sari-Sari-Saya_System/blob/main/OOP_SARISARISAYA_codes/screenshots/12.png)
-
+![screenshot_13](https://github.com/Angelikanuas22/Sari-Sari-Saya_System/blob/main/OOP_SARISARISAYA_codes/screenshots/13.png)
